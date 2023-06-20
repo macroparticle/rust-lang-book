@@ -1,4 +1,5 @@
 fn main() {
+
     // let mut s = String::from("value");
     // s += "a"; 
     // println!("{s}");
@@ -20,9 +21,31 @@ fn main() {
     //     n -= 1;
     // };
     // println!("{num}");
+    // let arr = [10,1,2,3];
+    // for item in arr {
+    //     println!("{item}");
+    // }
+    // let x = 1;
+    // let x = x+ 1;
+    // {
+    //     let x = 5;
+    //     println!("{x}");
+    // }
+    // println!("{x}");
+    // let mut sp = String::from("value");
+    // sp = sp.len();
+    // let mut x = 10;
+    // x = {
+    //     let t = 12;
+    //     t + 1
+    // };
+    // println!("{x}");
+    // let x = plus_one(x);
+    // println!("{x}");
+
     
-    let arr = [10,1,2,3];
-    for item in arr {
-        println!("{item}");
-    }
 }
+
+// fn plus_one(x: i32) -> i32 {
+//     x + 1
+// }
