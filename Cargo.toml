@@ -1,4 +1,6 @@
 [workspace]
 members = [
     "guess-game",
+    "ownership",
+    "common-lang",
 ]
